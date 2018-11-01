@@ -1,0 +1,2 @@
+# irslackd-docker
+Dockerized irslackd
